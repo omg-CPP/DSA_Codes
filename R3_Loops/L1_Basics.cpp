@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cout<<"Enter n : ";
+    cin>>n;
+    for(int i = 1 ; i <= n ; i++) {
+        cout<<"Hello World"<<endl;
+    }
+    return 0;
+}
+
+// Enter n : 5
+// Hello World
+// Hello World
+// Hello World
+// Hello World
+// Hello World
