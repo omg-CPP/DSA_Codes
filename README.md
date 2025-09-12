@@ -5,6 +5,7 @@ I write whatever I learn about Data Structures and Algorithms here.
 
 ---------
 
-R1_Basics
-R2_Conditionals
-R3_Loops
+R1 : Basics
+R2 : Conditionals
+R3 : Loops
+R4 : Pattern Printing
