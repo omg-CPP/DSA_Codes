@@ -11,3 +11,4 @@ R3 : Loops
 R4 : Pattern Printing
 R5 : Functions
 R6 : Pointers
+R7 : 1D Arrays
