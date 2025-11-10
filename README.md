@@ -14,3 +14,4 @@ R6 : Pointers
 R7 : 1D Arrays
 R8 : 2D Arrays
 R9 : Prefix Sum Algorithm
+R10 : Strings
