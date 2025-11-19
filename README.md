@@ -16,3 +16,4 @@ R8 : 2D Arrays
 R9 : Prefix Sum Algorithm
 R10 : Strings
 R11 : Sorting
+R12 : Binary Search
