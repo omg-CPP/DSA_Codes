@@ -18,3 +18,8 @@ R10 : Strings
 R11 : Sorting
 R12 : Binary Search
 R13 : Recursion
+R14 : Linked List
+R15 : OOPS
+R16 : Stack
+R17 : Queue
+R18 : Binary Tree
