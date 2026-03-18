@@ -29,5 +29,5 @@ R21 : Priority Queue : Heaps
 R22 : Maps and Sets
 R23 : Greedy Algorithms
 R24 : Dynamic Programming DP
-R25 : Graps
+R25 : Graphs
 
