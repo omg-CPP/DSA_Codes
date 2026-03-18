@@ -23,3 +23,11 @@ R15 : OOPS
 R16 : Stack
 R17 : Queue
 R18 : Binary Tree
+R19 : Binary Search Tree
+R20 : Sliding Window Algorithm
+R21 : Priority Queue : Heaps
+R22 : Maps and Sets
+R23 : Greedy Algorithms
+R24 : Dynamic Programming DP
+R25 : Graps
+
